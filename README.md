@@ -3,7 +3,7 @@
 **Full Stack Developer (MERN) | Frontend-Focused | Passionate Problem Solver**  
 Kaduna State, Nigeria  
 
-[LinkedIn](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b) | [Portfolio]
+[LinkedIn](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b) | [Portfolio (https://github.com/khalifadalhat/)]
 
 ---
 
