@@ -1,7 +1,7 @@
 # Dalhat Dalhat Falalu
 
 **Full Stack Developer (MERN) | Frontend-Focused | Passionate Problem Solver**  
-Kaduna State, Nigeria  
+Abuja, Nigeria  
 
 [LinkedIn](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b) | [Portfolio](https://github.com/khalifadalhat/)
 
@@ -9,9 +9,9 @@ Kaduna State, Nigeria
 
 ## 👨‍💻 About Me
 
-Self-driven and passionate full stack developer with a frontend flair and backend confidence. I specialize in building scalable, user-focused applications with clean UI and efficient logic. My experience includes real-world products, admin systems, landing pages, and academic solutions.
+I am a passionate and self-driven Frontend Developer with a strong foundation in full-stack (MERN) development. I specialize in building scalable, mobile-responsive, and user-centric web applications with clean, efficient, and well-documented code. My experience spans from building real-world products and admin dashboards to creating sleek landing pages and academic solutions.
 
-From managing intern dashboards to building facial recognition systems, I thrive on solving problems with elegant, readable code. Constantly learning, always building.
+I thrive on solving complex problems with elegant solutions and am committed to continuous learning and building impactful products that support businesses and communities.
 
 ---
 
