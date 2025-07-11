@@ -46,9 +46,15 @@ Tech Stack: React.js, Typescript, Shadcn, Socket.io, Tailwind CSS, MongoDB, Expr
 Developed and maintained the internal dashboard for JAM-Forte’s QoutR platform to manage business logic and operations.  
 **Tech Stack:** React.js, Redux, Tailwind CSS
 
-### **[Restaurant App](https://quiz-app-js-beginners.netlify.app)**
+### **[Restaurant App](https://localrestaurantapp.netlify.app)**
 An intuitive restaurant management app for browsing, ordering, and reviewing meals.  
-**Tech Stack:** React.js, Context API, Styled Components
+**Tech Stack:** React.js, Tailwind Css, TypeScript, Styled Components
+
+### **[React Quiz App](https://quiz-app-js-beginners.netlify.app)** 
+
+A fun and educational app for testing knowledge with real-time feedback and scoring.  
+
+**Tech Stack:** React.js, Tailwind CSS, Context API 
 
 ### **Facial Emotion Recognition System (Final Year Project)**
 A computer vision solution that detects and classifies **7 core emotions** from facial expressions using deep learning models.  
