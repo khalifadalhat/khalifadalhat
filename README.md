@@ -73,11 +73,17 @@ Sleek landing page built for the innovation hub with focus on performance and mo
 ## 🛠️ Skills
 
 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Java, Python 
+
 **Frontend:** React.js, Next.js, Redux Toolkit, React Router, Tailwind CSS, ShadCN UI, Material UI, Styled Components 
+
 **Backend:** Node.js, Express.js 
+
 **Databases:** MongoDB, PostgreSQL, MySQL  
+
 **APIs:**  RESTful APIs, GraphQL
+
 **Testing:**  Jest
+
 **Tools & Concepts:** Git, GitHub, Bitbucket, Vite, Postman, Figma, CI/CD Basics, Component-Based Architecture, SEO Optimization, Responsive Design, Agile Workflow 
 
 ---
