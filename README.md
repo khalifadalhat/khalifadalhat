@@ -39,7 +39,7 @@ Worked on multiple community-focused web tools and UI enhancements.
 ## 🚀 Projects
 
 ### **[Incidence Reporting Platform ](https://incidence-report.netlify.app/)**  
-A web-based fullstack application designed to facilitate real-time interaction between support agents and customers. Features include a dynamic chat interface, collaborative document editing, and a secure authentication system.
+Incident Report is a comprehensive, real-time incident reporting and management platform designed specifically for law enforcement agencies, emergency response teams, and community safety initiatives. Built with modern web technologies, it streamlines the entire incident lifecycle from initial report to resolution. Features include a dynamic chat interface, collaborative document editing, and a secure authentication system.
 Tech Stack: React.js, Typescript, Shadcn, Socket.io, Tailwind CSS, MongoDB, Express, Tanstack ReactQuery, Zustand
 
 ### **QoutR Admin Dashboard** 
