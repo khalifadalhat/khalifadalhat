@@ -38,7 +38,7 @@ Worked on multiple community-focused web tools and UI enhancements.
 
 ## 🚀 Projects
 
-### **[Real-Time Collaborative Support App](https://realtimesupport.netlify.app/)**  
+### **[Incidence Reporting Platform ](https://incidence-report.netlify.app/)**  
 A web-based fullstack application designed to facilitate real-time interaction between support agents and customers. Features include a dynamic chat interface, collaborative document editing, and a secure authentication system.
 Tech Stack: React.js, Typescript, Shadcn, Socket.io, Tailwind CSS, MongoDB, Express, Tanstack ReactQuery, Zustand
 
