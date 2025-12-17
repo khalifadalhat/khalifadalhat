@@ -69,11 +69,12 @@ Other: Zustand, Shadcn UI, Git, REST/GraphQL, Jest, CI/CD, SEO, Agile.
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalifadalhat&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true)
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=python" alt="Top Languages" />
-<!-- Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <!-- Contribution Snake -->
 <picture>
