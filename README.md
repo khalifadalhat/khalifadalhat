@@ -1,128 +1,93 @@
-# Dalhat Dalhat Falalu
+# 👋 Hi, I'm Dalhat Dalhat Falalu
 
-**Full Stack Developer (MERN) | Frontend-Focused | Passionate Problem Solver**  
-Abuja, Nigeria  
+**Full Stack Developer (MERN) | Frontend-Focused | Building Scalable Dashboards & Real-Time Apps**
 
-[LinkedIn](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b) | [Portfolio](https://khalifadalhat.vercel.app/)
+Abuja, Nigeria · [Portfolio](https://khalifadalhat.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b) · [Email](mailto:khalifadalhat@gmail.com)
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate and self-driven Frontend Developer with a strong foundation in full-stack (MERN) development. I specialize in building scalable, mobile-responsive, and user-centric web applications with clean, efficient, and well-documented code. My experience spans from building real-world products and admin dashboards to creating sleek landing pages and academic solutions.
-
-I thrive on solving complex problems with elegant solutions and am committed to continuous learning and building impactful products that support businesses and communities.
+Passionate about crafting user-centric web applications with clean code and modern tools. Experienced in full-stack development, from high-performance admin dashboards to real-time collaborative features.
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### **JAM-Forte Technologies Ltd**
-*Frontend Developer* | Oct 2024 – Present  
-Built and maintained **QoutR’s Admin Dashboard** — a platform for managing users, tasks, and analytics.
+These are my standout projects—pinned on my profile for quick access:
 
-### **Techvalley Innovation Hub**
-*Frontend Developer* | Apr 2024 – Present  
-Designed and implemented the **official landing page** for Techvalley Innovation Hub with responsive design and SEO in mind.
+[![Incidence Reporting Platform](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=incidence-reporting-platform&theme=dark&hide_border=true)](https://github.com/khalifadalhat/incidence-reporting-platform)
+> Real-time incident management platform with chat, collaborative editing, and secure auth.  
+> **Tech:** React, TypeScript, Shadcn, Socket.io, Tailwind, MongoDB, Express, Tanstack Query, Zustand  
+> [Live Demo](https://incidence-report.netlify.app/)
 
-### **NXDI TECHNOLOGY SOLUTIONS LTD**
-*Full Stack Developer* | Aug 2023 – Present  
-Led both frontend and backend development tasks, collaborating on production-level projects.
+[![QoutR Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=qoutr-dashboard&theme=dark&hide_border=true)](https://github.com/khalifadalhat/qoutr-dashboard)
+> Internal dashboard for managing users, tasks, analytics, and financial workflows. Improved load times by 40% and reduced bugs by 60%.  
+> **Tech:** React, Redux Toolkit, TypeScript, Tailwind CSS, Docker, MongoDB
 
-### **Kad ICT Hub**
-*Frontend Developer* | Dec 2021 – Mar 2024  
-*Intern* | Jan 2022 – Jun 2022  
-Worked on multiple community-focused web tools and UI enhancements.
+[![Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=restaurant-app&theme=dark&hide_border=true)](https://github.com/khalifadalhat/restaurant-app)
+> Intuitive meal browsing, ordering, and review system.  
+> **Tech:** React, TypeScript, Tailwind CSS, Styled Components  
+> [Live Demo](https://localrestaurantapp.netlify.app)
 
----
+[![React Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=react-quiz-app&theme=dark&hide_border=true)](https://github.com/khalifadalhat/react-quiz-app)
+> Interactive quiz with real-time scoring and feedback.  
+> **Tech:** React, Tailwind CSS, Context API  
+> [Live Demo](https://quiz-app-js-beginners.netlify.app)
 
-## 🚀 Projects
-
-### **[Incidence Reporting Platform ](https://incidence-report.netlify.app/)**  
-Incident Report is a comprehensive, real-time incident reporting and management platform designed specifically for law enforcement agencies, emergency response teams, and community safety initiatives. Built with modern web technologies, it streamlines the entire incident lifecycle from initial report to resolution. Features include a dynamic chat interface, collaborative document editing, and a secure authentication system.
-Tech Stack: React.js, Typescript, Shadcn, Socket.io, Tailwind CSS, MongoDB, Express, Tanstack ReactQuery, Zustand
-
-### **QoutR Admin Dashboard** 
-Developed and maintained the internal dashboard for JAM-Forte’s QoutR platform to manage business logic and operations.  
-**Tech Stack:** React.js, Redux, Tailwind CSS
-
-### **[Restaurant App](https://localrestaurantapp.netlify.app)**
-An intuitive restaurant management app for browsing, ordering, and reviewing meals.  
-**Tech Stack:** React.js, Tailwind Css, TypeScript, Styled Components
-
-### **[React Quiz App](https://quiz-app-js-beginners.netlify.app)** 
-
-A fun and educational app for testing knowledge with real-time feedback and scoring.  
-
-**Tech Stack:** React.js, Tailwind CSS, Context API 
-
-### **Facial Emotion Recognition System (Final Year Project)**
-A computer vision solution that detects and classifies **7 core emotions** from facial expressions using deep learning models.  
-**Tech Stack:** Python, OpenCV, TensorFlow, DeepFace Model, React Native (for UI prototype)
-
-### **[FlexiSaf Intern Dashboard](https://fipdb1.onrender.com)**
-Merit-based intern filtering system with clean, responsive design and real-time filtering.  
-**Tech Stack:** React.js, CSS3
-
-### **[Techvalley Innovation Hub Landing Page](http://techvalley.org.ng/)** 
-Sleek landing page built for the innovation hub with focus on performance and mobile responsiveness.  
-**Tech Stack:** React.js, Tailwind CSS
+More projects: Facial Emotion Recognition (Python/TensorFlow), FlexiSaf Intern Dashboard, Techvalley Landing Page.
 
 ---
 
-## 🛠️ Skills
+## 💼 Professional Experience
 
-**Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Java, Python 
+- **Fullstack Engineer** @ JAM-Forte Technologies Ltd (Oct 2024 – Present)  
+  Building QoutR & Firstlane Finance dashboards: Redux state management, API integrations, Docker deployments, MongoDB optimizations.
 
-**Frontend:** React.js, Next.js, Redux Toolkit, React Router, Tailwind CSS, ShadCN UI, Material UI, Styled Components 
+- **Fullstack Developer** @ Techvalley Innovation Hub (Apr 2024)  
+  SEO-optimized landing pages, Redux migration, reusable components.
 
-**Backend:** Node.js, Express.js 
+- **Fullstack Developer** @ NXDI Technology Solutions (Aug 2023)  
+  MERN stack features, PostgreSQL schemas, performance optimizations.
 
-**Databases:** MongoDB, PostgreSQL, MySQL  
-
-**APIs:**  RESTful APIs, GraphQL
-
-**Testing:**  Jest
-
-**Tools & Concepts:** Git, GitHub, Bitbucket, Vite, Postman, Figma, CI/CD Basics, Component-Based Architecture, SEO Optimization, Responsive Design, Agile Workflow 
+- **Frontend Developer / Intern** @ Kad ICT Hub (2021 – 2024)  
+  Community tools and UI enhancements.
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**BSc. Computer Science**  
-Kaduna State University (KASU), Nigeria  
-_Second Class Upper | CGPA: 3.97_  
-Graduated: 2024 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/Tanstack_Query-FF4154?logo=react-query&logoColor=white)
 
----
-
-## 📜 Certifications
-
-- Advanced Web Development | Wootlab
-
-- Web Development & Java | KAD ICT HUB
-
-- Intro to Machine Learning | Kaggle
-
-- Intermediate Machine Learning | Kaggle
-
-- Introduction to Cybersecurity | Cisco
-
-- Git & GitHub | Coursera
-
-- React (Beginner & Intermediate) | Codecademy
-
-- JavaScript | Sololearn
+Other: Zustand, Shadcn UI, Git, REST/GraphQL, Jest, CI/CD, SEO, Agile.
 
 ---
 
-## 📬 Contact
+## 📊 GitHub Stats
 
-📧 **Email:** [khalifadalhat@gmail.com](mailto:khalifadalhat@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/khalifa-dalhat-ba66b514b](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalifadalhat&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalifadalhat&theme=dark&hide_border=true)
 
 ---
+
+## 🎓 Education & Certifications
+
+**BSc. Computer Science** – Kaduna State University (2024)  
+Second Class Upper | CGPA: 3.97
+
+Certifications: Advanced Web Dev (Wootlab), Machine Learning (Kaggle), Cybersecurity (Cisco), Git/GitHub (Coursera), React (Codecademy).
+
+---
+
+_Open to full-stack opportunities—let's connect and build something impactful!_
 
 _“I don’t just code apps—I build experiences.”_
