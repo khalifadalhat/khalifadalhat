@@ -75,7 +75,12 @@ Other: Zustand, Shadcn UI, Git, REST/GraphQL, Jest, CI/CD, SEO, Agile.
 <!-- Streak Stats Card -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalifadalhat&theme=dark&hide_border=true)
+<!-- Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khalifadalhat/khalifadalhat/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/khalifadalhat/khalifadalhat/blob/output/github-contribution-grid-snake-dark.svg" /> <!-- Change to a light version if you generate one -->
+  <img alt="Contribution Snake" src="https://github.com/khalifadalhat/khalifadalhat/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
