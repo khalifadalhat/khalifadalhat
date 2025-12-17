@@ -12,21 +12,17 @@ Passionate about crafting user-centric web applications with clean code and mode
 
 These are my standout projects—pinned on my profile for quick access:
 
-[![Incidence Reporting Platform](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=incidence-reporting-platform&theme=dark&hide_border=true)](https://github.com/khalifadalhat/incidence-reporting-platform)
+[![Incidence Reporting Platform](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=IncidentReport&theme=dark&hide_border=true)](https://github.com/khalifadalhat/IncidentReport)
 > Real-time incident management platform with chat, collaborative editing, and secure auth.  
 > **Tech:** React, TypeScript, Shadcn, Socket.io, Tailwind, MongoDB, Express, Tanstack Query, Zustand  
 > [Live Demo](https://incidence-report.netlify.app/)
 
-[![QoutR Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=qoutr-dashboard&theme=dark&hide_border=true)](https://github.com/khalifadalhat/qoutr-dashboard)
-> Internal dashboard for managing users, tasks, analytics, and financial workflows. Improved load times by 40% and reduced bugs by 60%.  
-> **Tech:** React, Redux Toolkit, TypeScript, Tailwind CSS, Docker, MongoDB
-
-[![Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=restaurant-app&theme=dark&hide_border=true)](https://github.com/khalifadalhat/restaurant-app)
+[![Restaurant App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=Restaurant&theme=dark&hide_border=true)](https://github.com/khalifadalhat/Restaurant)
 > Intuitive meal browsing, ordering, and review system.  
 > **Tech:** React, TypeScript, Tailwind CSS, Styled Components  
 > [Live Demo](https://localrestaurantapp.netlify.app)
 
-[![React Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=react-quiz-app&theme=dark&hide_border=true)](https://github.com/khalifadalhat/react-quiz-app)
+[![React Quiz App](https://github-readme-stats.vercel.app/api/pin/?username=khalifadalhat&repo=QuizApp&theme=dark&hide_border=true)](https://github.com/khalifadalhat/QuizApp)
 > Interactive quiz with real-time scoring and feedback.  
 > **Tech:** React, Tailwind CSS, Context API  
 > [Live Demo](https://quiz-app-js-beginners.netlify.app)
@@ -74,24 +70,15 @@ Other: Zustand, Shadcn UI, Git, REST/GraphQL, Jest, CI/CD, SEO, Agile.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalifadalhat&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true)
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=python" alt="Top Languages" />
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalifadalhat&theme=dark&hide_border=true)
 
 ---
 
-## 📊 GitHub Metrics & Contributions
-
-<!-- General Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=khalifadalhat&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<!-- Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<!-- Optional: Contribution Graph (Snake) for visual flair -->
-<img src="https://github.com/khalifadalhat/khalifadalhat/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 ## 🎓 Education & Certifications
 
