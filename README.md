@@ -79,6 +79,20 @@ Other: Zustand, Shadcn UI, Git, REST/GraphQL, Jest, CI/CD, SEO, Agile.
 
 ---
 
+## 📊 GitHub Metrics & Contributions
+
+<!-- General Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=khalifadalhat&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifadalhat&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khalifadalhat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<!-- Optional: Contribution Graph (Snake) for visual flair -->
+<img src="https://github.com/khalifadalhat/khalifadalhat/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
 ## 🎓 Education & Certifications
 
 **BSc. Computer Science** – Kaduna State University (2024)  
