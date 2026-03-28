@@ -6,7 +6,7 @@
 **Abuja, Nigeria · Open to UK/EU Remote Roles**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khalifadalhat.vercel.app-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://khalifadalhat.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifa-dalhat-ba66b514b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifa-dalhat)
 [![Email](https://img.shields.io/badge/Email-khalifadalhat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalifadalhat@gmail.com)
 
 </div>
